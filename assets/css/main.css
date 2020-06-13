@@ -1,0 +1,13 @@
+/* Importing the font through local folder */
+@font-face{
+    font-family: Lemon\/Milk;
+    src: url(../font.otf);
+    
+    }
+     
+body{
+
+font-family: Lemon\/Milk;
+margin: 0;
+}
+
